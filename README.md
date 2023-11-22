@@ -16,7 +16,7 @@ Visit our website for regular update: https://bloginstall.com
 3 » Some Channels not Works<br>
 4 » Zee5, Voot, MX & Sony Channels Updated<br>
 5 » New Indian Channels Added<br>
-6 » Indian Radio Channels Added<br>
+6 » Indian Tataplay Channels Added<br>
 7 » Indian Movies Playlists Added<br> 
 8 » Update your M3U files weekly from here<br>
 
