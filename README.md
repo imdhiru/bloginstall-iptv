@@ -25,3 +25,8 @@ Visit our website for regular update: https://bloginstall.com
 <br> 
 
 <h2> 📙 Playlists Links : </h2>
+ All In One IPTV :     https://raw.githubusercontent.com/imdhiru/bloginstall-iptv/main/bloginstall-iptv.m3u
+
+  Right click on m3u playlists to copy and play in Tivimate App or any M3u player app<br>
+• Click On Channels Which You Want to Play<br>
+• And Just Enjoy
