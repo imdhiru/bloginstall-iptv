@@ -1,0 +1,384 @@
+#EXTM3U
+#EXTINF:-1, Tech Edu Byte
+#EXTINF:-1, www.techedubyte.com
+
+
+
+
+
+
+#EXTINF:-1,T Sports
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1,Wilow Cricket
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1,Star Sports 1(BD)
+http://103.186.77.21:8000/play/a03g/index.m3u8
+#EXTINF:-1,Sony Sports Ten 1 HD(BD)
+http://103.186.77.21:8000/play/a03i/index.m3u8
+#EXTINF:-1,Sony Sports Ten 1 HD(BD)
+http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
+#EXTINF:-1,Sony Sports Ten 2 HD(BD)
+http://103.186.77.21:8000/play/a03n/index.m3u8
+#EXTINF:-1,Sony Sports Ten 2 HD(Toffee)
+http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
+#EXTINF:-1,Sony Sports Ten 3 HD(BD)
+http://103.186.77.21:8000/play/a03j/index.m3u8
+#EXTINF:-1,Sony Sports Ten 5(Flixhub)
+http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+#EXTINF:-1, ALKASS SPORTS ONE
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3laq/master.m3u8
+#EXTINF:-1, ALKASS SPORTS TWO
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2laq/master.m3u8
+#EXTINF:-1, ALKASS SPORTS THREE
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3laq/master.m3u8
+#EXTINF:-1 ,TNT Sports 1 ru
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+#EXTINF:-1 ,(ASSP 1 FHD) ⚽ world cup U17
+https://sc2022.stream-link.org/tv2306.php?id=s19
+#EXTINF:-1 ,(ASSP 2 FHD) ⚽ world cup U17
+https://sc2022.stream-link.org/tv2306.php?id=s20
+#EXTINF:-1 ,(ASSP 3 FHD) ⚽ world cup U17
+https://sc2022.stream-link.org/tv2306.php?id=s21
+#EXTINF:-1 ,(ASSP 4 FHD)v⚽ world cup U17
+https://sc2022.stream-link.org/tv2306.php?id=s22
+#EXTINF:-1 ,Star Sports 1
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
+#EXTINF:-1 ,Astro Cricket 1 HD
+http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
+#EXTINF:-1 ,Sky Sports Cricket
+https://sports.freesportstime.com/live/streamfreecric.m3u8
+#EXTINF:-1 ,beIN Sports 1
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/100
+#EXTINF:-1 ,beIN Sports 3
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/102
+#EXTINF:-1 ,beIN Sports 4
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/103
+#EXTINF:-1 ,beIN Sports 6
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/105
+#EXTINF:-1 ,beIN Sports 7
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/106
+#EXTINF:-1 ,beIN Sports English 1
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/110
+#EXTINF:-1 ,beIN Sports English 3
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/267769
+#EXTINF:-1 ,beIN Sports Premium 1
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/109
+#EXTINF:-1 ,Tsports HD
+http://chanel.dekhaott.com/Tsportshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Tsports HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 ,Star Sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+#EXTINF:-1 ,Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 ,TLT 1
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 ,Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 ,Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 ,ICC TV Add free Channel
+https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+#EXTINF:-1 ,Gazi TV 2
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
+#EXTINF:-1 ,Willow Extra TV
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+#EXTINF:-1 ,Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 ,Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 ,Willow HD
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1 ,SPORTSMAX 1
+https://is.gd/8Xi5qy
+#EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1 ,TLT + Willow Sports
+http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
+#EXTINF:-1 ,TNT Sports 4 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+#EXTINF:-1 ,sport
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 ,ESPN DEPORTE 🇺🇸
+http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
+#EXTINF:-1 ,Hoster Live 1
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 ,RACING TV
+http://89.187.167.94:80/live.ts?channelId=98&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,EUROSPORT 2
+http://89.187.167.92:80/live.ts?channelId=102&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,ViaPlay 1 UK
+http://89.187.167.92:80/live.ts?channelId=104&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,ViaPlay 2 UK
+http://89.187.167.94:80/live.ts?channelId=105&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SPORTY STUFF
+http://89.187.167.94:80/live.ts?channelId=108&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports F1.
+http://89.187.167.92:80/live.ts?channelId=130&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS F1
+http://89.187.167.92:80/live.ts?channelId=131&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS MAIN EVENT
+http://89.187.167.94:80/live.ts?channelId=135&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS ACTION / NFL
+http://89.187.167.92:80/live.ts?channelId=139&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Mix.
+http://89.187.167.92:80/live.ts?channelId=140&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS MIX
+http://89.187.167.94:80/live.ts?channelId=141&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Cricket.
+http://89.187.167.92:80/live.ts?channelId=142&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Football.
+http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Golf.
+http://89.187.167.94:80/live.ts?channelId=146&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS GOLF
+http://89.187.167.92:80/live.ts?channelId=147&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SKY SPORTS RACING
+http://89.187.167.92:80/live.ts?channelId=149&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,Sky Sports News.
+http://89.187.167.94:80/live.ts?channelId=150&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,TNT SPORTS 1
+http://89.187.167.93:80/live.ts?channelId=153&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,BT Sport 4
+http://89.187.167.93:80/live.ts?channelId=158&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 ,SPORTS 18 khel
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 ,VIAPLAY EXTRA
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 ,Sky Sports Golf.
+http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,SKY SPORTS GOLF
+http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,SKY SPORTS RACING
+http://89.187.167.92:80/live.ts?channelId=149&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,SKY SPORTS NEWS
+http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,TNT Sport 1
+http://89.187.167.93:80/live.ts?channelId=152&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,TNT SPORTS 1
+http://89.187.167.93:80/live.ts?channelId=153&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 ,ESPN HD
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 ,ESPN 2 HD
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 ,ESPN 3 HD
+http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 ,FoxSports  HD.
+http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 ,FOXSPORTS 3 HD.
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 ,GOLTV HD.
+http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:-1 ,TyCSports HD.
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 ,Fox Sports 3 LatinoAmerica HD
+http://167.250.222.35:16000/play/a07u/index.m3u8
+#EXTINF:-1 ,BUNDES LIGA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6097/index.m3u8
+#EXTINF:-1 ,LIGA ITALY 3
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/19042/index.m3u8
+#EXTINF:-1 ,SPORTS TV 1
+http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
+#EXTINF:-1 ,TYC SPORTS
+http://45.179.140.242:8000/play/a0k7
+#EXTINF:-1 ,TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 ,Sports TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,SPORTS 18 HD
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 ,MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 1 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 2 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 3 HD 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ Футбол 3 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 ,MUTV (Manchester United TV)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+#EXTINF:-1 ,Edge SPORTS
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Red Bull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,Bein Sports 4 HD
+http://node01.nntv.az:8153/ch3/ch3.hi.m3u8
+#EXTINF:-1 ,Bein Sports 5 HD
+http://node01.nntv.az:8153/ch4/ch4.hi.m3u8
+#EXTINF:-1 ,Bein Sports 6 HD
+http://node01.nntv.az:8153/ch5/ch5.hi.m3u8
+#EXTINF:-1 ,Bein Sports 7 HD
+http://node01.nntv.az:8153/ch6/ch6.hi.m3u8
+#EXTINF:-1 ,Bein Sports 3XTRA HD
+http://node01.nntv.az:8153/ch2/ch2.hi.m3u8
+#EXTINF:-1 ,BeIN Sport 1 HD
+http://nl.seetv.cc/play/1101/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 2 HD
+http://nl.seetv.cc/play/1102/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 3 HD
+http://nl.seetv.cc/play/1103/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 5 HD
+http://nl.seetv.cc/play/1105/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BeIN Sport 6 HD
+http://nl.seetv.cc/play/1106/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BT Sport 1
+http://nl.seetv.cc/play/922/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,BT Sport 2 HD
+http://nl.seetv.cc/play/923/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Premier Sports 1 HD
+http://nl.seetv.cc/play/930/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Premier Sports 2 HD
+http://nl.seetv.cc/play/929/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport 1 HD DE
+http://nl.seetv.cc/play/833/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport 2 HD DE
+http://nl.seetv.cc/play/834/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport Bundesliga 1 HD DE
+http://nl.seetv.cc/play/836/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport Austria HD DE
+http://nl.seetv.cc/play/5129/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sky Sport News HD DE
+http://nl.seetv.cc/play/832/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,SKY Sports F1
+http://nl.seetv.cc/play/9923/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 1 HD DE
+http://nl.seetv.cc/play/818/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,DAZN 1 DE
+http://nl.seetv.cc/play/3556/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,DAZN 2 DE
+http://nl.seetv.cc/play/3557/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ONE HD
+http://nl.seetv.cc/play/1506/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ONE 2 HD
+http://nl.seetv.cc/play/6915/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 1 HD
+http://nl.seetv.cc/play/1522/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport  2 HD
+http://nl.seetv.cc/play/1521/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 3 HD
+http://nl.seetv.cc/play/1565/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 4 HD
+http://nl.seetv.cc/play/1566/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 5 HD
+http://nl.seetv.cc/play/1507/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 5 Stars HD
+http://nl.seetv.cc/play/6916/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 5 Gold
+http://nl.seetv.cc/play/6923/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport  5 Plus HD
+http://nl.seetv.cc/play/6924/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport 5 Live HD
+http://nl.seetv.cc/play/1531/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Sport BundesLiga
+http://nl.seetv.cc/play/5666/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Movistar Formula 1
+http://nl.seetv.cc/play/1121/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Diema Sport
+http://nl.seetv.cc/play/6830/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Diema Sport 2
+http://nl.seetv.cc/play/6831/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Diema Sport 3
+http://nl.seetv.cc/play/6832/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Max Sport 1 HD
+http://nl.seetv.cc/play/6875/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Max Sport 2 HD
+http://nl.seetv.cc/play/6876/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Max Sport 3 HD
+http://nl.seetv.cc/play/6877/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Max Sport 4 HD
+http://nl.seetv.cc/play/6878/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Nova Sport
+http://nl.seetv.cc/play/6827/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Ring
+http://nl.seetv.cc/play/6828/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ÁÍÒ3
+http://nl.seetv.cc/play/6825/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi sport 1 HD
+http://nl.seetv.cc/play/11068/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi sport 2 HD
+http://nl.seetv.cc/play/11069/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,DIGI Sport 3 HD RO
+http://nl.seetv.cc/play/11145/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi sport 4
+http://nl.seetv.cc/play/11071/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi24
+http://nl.seetv.cc/play/11072/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://nl.seetv.cc/play/11081/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://nl.seetv.cc/play/11082/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Nova Sport HD
+http://nl.seetv.cc/play/1122/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fox Sport 1 HD
+http://nl.seetv.cc/play/6046/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fox Sport 2 HD
+http://nl.seetv.cc/play/6047/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ESPN HD
+http://nl.seetv.cc/play/6252/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ESPN 2
+http://nl.seetv.cc/play/6253/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,TVP Sport HD
+http://nl.seetv.cc/play/1910/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fightklub HD PL
+http://nl.seetv.cc/play/1905/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 1 HD
+http://nl.seetv.cc/play/1904/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 2 HD
+http://nl.seetv.cc/play/1903/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 3 HD
+http://nl.seetv.cc/play/5445/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 4 HD
+http://nl.seetv.cc/play/5446/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 1 HD PL
+http://nl.seetv.cc/play/5460/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 2 HD PL
+http://nl.seetv.cc/play/1901/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 3 HD PL
+http://nl.seetv.cc/play/5462/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 4 HD PL
+http://nl.seetv.cc/play/5463/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 5 HD PL
+http://nl.seetv.cc/play/5464/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 1 HD PL
+http://nl.seetv.cc/play/5453/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2 HD PL
+http://nl.seetv.cc/play/5454/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,FightBox HD
+http://nl.seetv.cc/play/5467/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Extreme Sport
+http://nl.seetv.cc/play/5469/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport News
+http://nl.seetv.cc/play/5455/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport
+http://nl.seetv.cc/play/5456/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Extra
+http://nl.seetv.cc/play/5457/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Fight
+http://nl.seetv.cc/play/5458/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 1 HD
+http://nl.seetv.cc/play/5447/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 2 HD
+http://nl.seetv.cc/play/5448/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 3 HD
+http://nl.seetv.cc/play/5449/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 5 HD
+http://nl.seetv.cc/play/5451/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 6 HD
+http://nl.seetv.cc/play/5452/C94BDA70C92CDB2/video.m3u8
+
+#EXTINF:-1, Tech Edu Byte
+#EXTINF:-1, www.techedubyte.com
