@@ -21,7 +21,7 @@ Visit our website for regular update: https://bloginstall.com
 8 » Update your M3U files weekly from here<br>
 
 </h4>
-
+https://bloginstall.com
 <br> 
 
 <h2> 📙 Playlists Links : </h2>
