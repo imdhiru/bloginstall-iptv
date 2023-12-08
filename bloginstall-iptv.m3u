@@ -17,6 +17,31 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/ind
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-chno="9",Sports 18 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Channels
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://i.imgur.com/Hvvjfk5.png" group-title="Movies",Colors Cineplex (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Movies",Colors Cineplex Bollywood (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Movies",Colors Cineplex Superhits (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="Undefined",Colors Infinity (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-logo="https://i.imgur.com/CFUn43Z.png" group-title="Undefined",Colors Kannada (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsKannadaCinema.in" tvg-logo="https://i.imgur.com/gNbA3NO.png" group-title="Movies",Colors Kannada Cinema (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-logo="https://i.imgur.com/q43P31H.png" group-title="Undefined",Colors Marathi (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="Undefined",Colors Rishtey Asia (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsSuper.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Colors-super-tv-channel-logo.jpg" group-title="Undefined",Colors Super (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="Undefined",Colors Tamil (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralIndia.in" tvg-logo="https://i.imgur.com/g0caQa2.png" group-title="Comedy",Comedy Central India (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-chno="10",Biggboss live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105488/uhd_akamai_ctv_avc_24x7_bbhindi_day01/master.m3u8
 #EXTINF:-1,FRANCE
