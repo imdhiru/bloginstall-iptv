@@ -30,6 +30,7 @@ https://bloginstall.com
  <br/>
  Bangla / Bangladesh M3u Playlist: https://raw.githubusercontent.com/imdhiru/bloginstall-iptv/main/bloginstall-bangla.m3u
  <br/>
+ Turkey M3u Playlist: https://raw.githubusercontent.com/imdhiru/bloginstall-iptv/main/fb4k-bloginstall.m3u
   Right click on m3u playlists to copy and play in Tivimate App or any M3u player app<br>
 • Click On Channels Which You Want to Play<br>
 • And Just Enjoy
