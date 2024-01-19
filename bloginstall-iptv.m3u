@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1",Star Sports 1 HD
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+
 #EXTINF:-1 tvg-chno="2",Color Infinty HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-chno="3",Color CinePlex HD
