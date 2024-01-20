@@ -1,21 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="2",Color Infinty HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="3",Color CinePlex HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="4",Colors Cineplex Superhit
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="5",Color Cineplex Bollywood
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="6",MTV HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="7",MTV Beats HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="8",Nick HD+
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="9",Sports 18 HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:-1,Colors Channels
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://i.imgur.com/Hvvjfk5.png" group-title="Movies",Colors Cineplex (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
@@ -43,6 +28,96 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallb
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-chno="10",Biggboss live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105488/uhd_akamai_ctv_avc_24x7_bbhindi_day01/master.m3u8
+#EXTINF:-1,FRANCE
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+#EXTINF:-1,A2i TV
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+#EXTINF:-1,A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
+#EXTINF:-1,A2i Naja
+https://stream.sen-gt.com/A2iNaija/myStream/chunklist_w59258816.m3u8
+#EXTINF:-1,A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
+#EXTINF:-1,Alpe d'Huez
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,Amuse Animation
+https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1,BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1,Bip TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1,Caillou
+https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Comedy Movies
+https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE;MUSIK",D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1,EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1,Euronews
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 group-title="FRANCE;MUSIK",Generations TV
+https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+#EXTINF:-1,ILTV
+https://str81.creacast.com/iltv/high/playlist.m3u8
+#EXTINF:-1,KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1,La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1,LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1,MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1,Moods
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Movies Central
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,MyComedy
+https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:-1,My Surf TV
+https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="FRANCE;MUSIK",Nancy Web TV
+https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 group-title="FRANCE;MUSIK",Obosso TV
+https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
+#EXTINF:-1,People are Awesome
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Radio Contact
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1,RMC
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
+#EXTINF:-1,Spotlight
+https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Supertoons TV
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,TébéSud
+https://edge-live-ger1.ovstream.com/hls/10/index.m3u8
+#EXTINF:-1,TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1,TV Shows
+https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,TV5 Monde Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1,TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1,viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+
+
+
+
 
 
 
@@ -3970,90 +4045,3 @@ http://mitvpro.online:88/02025685921199/8999991992/93717
 http://mitvpro.online:88/02025685921199/8999991992/93718
 #EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: ZEE PUNJABI" tvg-logo="" group-title="AS ASIA",PUNJABI: ZEE PUNJABI
 http://mitvpro.online:88/02025685921199/8999991992/93719
-
-#EXTINF:-1,FRANCE
-https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
-#EXTINF:-1,A2i TV
-https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
-#EXTINF:-1,A2i Music
-https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
-#EXTINF:-1,A2i Naja
-https://stream.sen-gt.com/A2iNaija/myStream/chunklist_w59258816.m3u8
-#EXTINF:-1,A2i Religion
-https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
-#EXTINF:-1,Alpe d'Huez
-https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-#EXTINF:-1,Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,Amuse Animation
-https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,BFM Grand Lille
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1,BFM Grand Littoral
-https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
-#EXTINF:-1,Bip TV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1,Caillou
-https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Comedy Movies
-https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE;MUSIK",D5TV
-http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-#EXTINF:-1,EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
-#EXTINF:-1,Euronews
-https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1,France 24
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1,Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 group-title="FRANCE;MUSIK",Generations TV
-https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
-#EXTINF:-1,ILTV
-https://str81.creacast.com/iltv/high/playlist.m3u8
-#EXTINF:-1,KTO
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1,La Chaine Normande
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1,LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1,MDL
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1,Moods
-https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Movies Central
-https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,MyComedy
-https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1,My Surf TV
-https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE;MUSIK",Nancy Web TV
-https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
-#EXTINF:-1 group-title="FRANCE;MUSIK",Obosso TV
-https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
-#EXTINF:-1,People are Awesome
-https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Radio Contact
-https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1,RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:-1,Spotlight
-https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Stormcast Novelas TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Supertoons TV
-https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,TébéSud
-https://edge-live-ger1.ovstream.com/hls/10/index.m3u8
-#EXTINF:-1,TMA
-http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1,TV Shows
-https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,TVR
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1,viaMirabelle
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-
