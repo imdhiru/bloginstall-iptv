@@ -1,6 +1,6 @@
 # bloginstall-iptv
 ✯ Bloginstall IPTV / M3u8 / m3u / mpd STB EMU ✯
-
+✯ IPL live tv added JIO / Star Sports ✯
 Visit our website for regular update: https://bloginstall.com
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
