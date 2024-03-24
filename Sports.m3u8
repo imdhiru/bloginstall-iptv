@@ -2,20 +2,22 @@
 #EXTINF:-1, Bloginstall
 #EXTINF:-1, bloginstall.com
 
+#EXTINF:-1 tvg-id="303" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Hindi
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_ipl_s1_m1240324/master.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO English
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1240324/master.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Tamil
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1240324/master.m3u8
+#EXTINF:-1 tvg-id="306" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Telugu
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1240324/master.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Kannada
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109723/uhd_akamai_atv_avc_kan_ipl_s1_m1240324/master.m3u8
 #EXTINF:-1 tvg-id="301" tvg-name="Super Cricket" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="IPL",Super Cricket
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-id="302" tvg-name="SKY Cricket" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="IPL",Sky Cricket
 https://catowrap.live/mrgamingcric.m3u8
-#EXTINF:-1 tvg-id="303" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Hindi
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_ipl_s1_m1220324/master.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO English
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1220324/master.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Tamil
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1220324/master.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Telagu
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1220324/master.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Kannada
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109723/uhd_akamai_atv_avc_kan_ipl_s1_m1220324/master.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="TNT Sports" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png" group-title="IPL",TNT SPorts 1
+https://catowrap.live/mrgamingbtsport1.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 1
 http://watchindia.net:8880/live/23712/28423/2186.ts
