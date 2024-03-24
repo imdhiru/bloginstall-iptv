@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Bloginstall
+#EXTINF:-1, bloginstall.com
 
 #EXTINF:-1 tvg-id="303" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Hindi
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_ipl_s1_m1240324/master.m3u8
