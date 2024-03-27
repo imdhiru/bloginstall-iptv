@@ -20,6 +20,7 @@ Visit our website for regular update: https://bloginstall.com
 7 » Indian Movies Playlists Added<br> 
 8 » Update your M3U files weekly from here<br>
 
+IPL 2024 will have live commentary in 12 languages, English, Hindi, Marathi, Gujarati, Bhojpuri, Punjabi, Bengali, Tamil, Telugu, Malayalam, and Kannada, with Haryanvi making its debut
 </h4>
 https://bloginstall.com
 <br> 
