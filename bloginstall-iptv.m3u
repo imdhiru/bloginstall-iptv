@@ -114,31 +114,8 @@ http://xxip25.top:8080/live/V9uBS5/971043/125806.m3u8
 http://xxip25.top:8080/live/V9uBS5/971043/125807.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) SAB TV (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) SAB TV (S)
 http://xxip25.top:8080/live/V9uBS5/971043/125809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) Sahara One (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) Sahara One (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) Sanskar (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) Sanskar (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125813.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) SET Max (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) SET Max (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) Shubh TV (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) Shubh TV (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) Times Now (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) Times Now (S)
 http://xxip25.top:8080/live/V9uBS5/971043/125817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) TV Asia (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) TV Asia (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian Colors Marathi (S)" tvg-logo="" group-title="INDIA",US Asian Colors Marathi (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian Gemini Movies (Telugu) (S)" tvg-logo="" group-title="INDIA",US Asian Gemini Movies (Telugu) (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian Jaya TV (Tamil) (S)" tvg-logo="" group-title="INDIA",US Asian Jaya TV (Tamil) (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125827.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian Kairali News (Malayalam) (S)" tvg-logo="" group-title="INDIA",US Asian Kairali News (Malayalam) (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian Kairali TV (Malayalam) (S)" tvg-logo="" group-title="INDIA",US Asian Kairali TV (Malayalam) (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125829.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US Asian News Only (Punjabi) (S)" tvg-logo="" group-title="INDIA",US Asian News Only (Punjabi) (S)
-http://xxip25.top:8080/live/V9uBS5/971043/125830.m3u8
-
 
 
 
@@ -2920,4 +2897,5 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/31ee83696bc04e449c76e3c2211ebc4b/m
 https://prod-ent-live-gm.jiocinema.com/out/v1/c714425e406c4be486e914f4062a9810/master.m3u8
 #EXTINF:-1 tvg-id="309" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",IPL Test 
 https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
+
 
