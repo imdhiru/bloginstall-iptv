@@ -25,6 +25,33 @@ https://epiconvh.akamaized.net/live/9XM/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
 
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (720p)
+http://103.213.31.109:90/B4UBhojpuri/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UHitz.in@SD",B4U Hitz (576p)
+http://115.42.65.142:9981/stream/channelid/1099703605
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Geo-blocked]
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Not 24/7]
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (720p)
+http://103.213.31.109:90/B4UKadak/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (1080p) [Geo-blocked]
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (720p)
+http://103.213.31.109:90/B4UMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies
+https://cdn-2.pishow.tv/live/419/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (576p)
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD",Balle Balle (720p)
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD",Balle Balle
+https://cdn-4.pishow.tv/live/987/master.m3u8
+
 #EXTINF:-1 tvg-id="AnmolCinema.in@SD",Anmol Cinema (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/271/271_0.m3u8
