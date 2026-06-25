@@ -12,8 +12,7 @@ https://ranapkbd.site/JOIN@RANAPK33/XT/play.m3u8?id=146122
 
 #EXTINF:-1 tvg-id="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (1080p)
-https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+
 #EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan (1080p)
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan
@@ -22,8 +21,7 @@ https://cdn-2.pishow.tv/live/1613/master.m3u8
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD",9XM (1080p)
 https://epiconvh.akamaized.net/live/9XM/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
-https://b.jsrdn.com/strm/channels/9xm/master.m3u8
+
 
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
